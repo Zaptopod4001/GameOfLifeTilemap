@@ -43,7 +43,7 @@ Takes care of UI view rendering.
 
 
 # About
-I created this as an exercise for how to use Tilemaps a while back.
+I created this Game of Life implementation to learn how to use Unity Tilemaps a while back.
 
 # Copyright
 Code and algorithm implementation by Sami S. use of any kind without a written permission from the author is not allowed. But feel free to take a look.
