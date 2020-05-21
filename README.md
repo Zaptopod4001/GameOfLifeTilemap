@@ -1,8 +1,8 @@
-# Game of Life with Unity Tilemaps (Unity / C#)
+# Game of Life with Unity Tilemap (Unity / C#)
 
 ## What is it?
 
-An example how to create Conway's "game of life" in Unity using tilemaps.
+An example how to create Conway's "game of life" in Unity using Tilemaps.
 
 ![Game of life image 1](/doc/game_of_life_0.png)
 
