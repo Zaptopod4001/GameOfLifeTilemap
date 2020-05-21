@@ -10,23 +10,23 @@ An example how to create Conway's "game of life" in Unity using Tilemaps.
 * Resizeable map with automatic camera framing
 * Draw and erase cells with mouse l/r buttons
 * Simulate with set framerate
-* Simulate in step by step mode
+* Simulate step by step
 * Clear map
 
 # How to use
 * Open Project
-* Press play
+* Press Play in Editor
 * Game starts in draw mode, draw some pattern with mouse
 * Press F2 to enter play mode or
 * Press F3 to simulate one step at time
 * Press F5 to clear field and enter draw mode
 
-Note: Frame counter reset only when F2 is pressed
+Note: Frame counter only resets when F2 / play is pressed.
 
 
 # Examples
 
-Some patterns created by game of line algorithm.
+Some patterns created by game of life algorithm.
 
 ![Game of life image 2](/doc/game_of_life_1.gif)
 
@@ -46,4 +46,4 @@ Takes care of UI view rendering.
 I created this as an exercise for how to use Tilemaps a while back.
 
 # Copyright
-Code created by Sami S. use of any kind without a written permission from the author is not allowed. But feel free to take a look.
+Code and algorithm implementation by Sami S. use of any kind without a written permission from the author is not allowed. But feel free to take a look.
