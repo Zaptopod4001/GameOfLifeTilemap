@@ -4,7 +4,7 @@
 
 An example how to create Conway's "game of life" in Unity using tilemaps.
 
-![Game of life image 1](/doc/game_of_life_1.gif)
+![Game of life image 1](/doc/game_of_life_0.png)
 
 # Features
 * Resizeable map with automatic camera framing
@@ -28,9 +28,9 @@ Note: Frame counter reset only when F2 is pressed
 
 Some patterns created by game of line algorithm.
 
-![Game of life image 2](/doc/game_of_life_2.gif)
+![Game of life image 2](/doc/game_of_life_1.gif)
 
-![Game of life image 3](/doc/game_of_life_3.gif)
+![Game of life image 3](/doc/game_of_life_2.gif)
 
 
 # Classes
